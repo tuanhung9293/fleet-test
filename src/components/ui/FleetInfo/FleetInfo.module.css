@@ -1,0 +1,28 @@
+.wrapper {
+  width: 350px;
+  line-height: 20px;
+}
+
+.place {
+  margin-bottom: 15px;
+}
+
+.time {
+  float: right;
+  font-size: 11px;
+  color: #7f7f7f;
+}
+
+.row {
+  display: -webkit-box;
+}
+
+.label {
+  width: 30%;
+  font-size: 11px;
+  color: #7f7f7f;
+}
+
+.content {
+  width: 70%;
+}

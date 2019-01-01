@@ -1,0 +1,14 @@
+.wrapper {
+  padding: 30px 50px;
+}
+
+.link {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 23px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,52 @@
+
+.wrapper {
+  visibility: block;
+  margin: 0 10px;
+}
+
+.nav {
+  display: inline-flex;
+  color: #7f7f7f;
+  border-bottom: solid 1px #78abcb;
+  position: relative;
+  width: 85%;
+  font-size: 14px;
+  margin-left: 15%;
+}
+
+.text{
+  padding: 21px 15px 16px 15px;
+}
+
+.activeText{
+  padding: 21px 15px 16px 15px;
+  font-weight: bold;
+  color: #0071ca;
+  border-bottom: solid 5px;
+}
+
+.lastText{
+  padding: 21px 15px 16px 15px;
+  margin-right: 50px;
+}
+
+.groupButton {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.logo {
+  position: absolute;
+  top: 8px;
+  left: 40px;
+}
+
+.user {
+  margin-right: 25px;
+}
+
+.logout {
+  padding-right: 10px;
+}

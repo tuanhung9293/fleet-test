@@ -1,0 +1,31 @@
+.wrapper {
+  font-size: 12px;
+  display: inline-flex;
+  padding: 2px 4px;
+  border: solid 0.8px;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.text {
+  margin: 5px 8px 5px 4px;
+}
+
+.border {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+.number {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  text-align: center;
+}
+
+.active {
+  border: solid 2px;
+} 
